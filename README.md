@@ -1,2 +1,2 @@
-day7
+day7 Exercise 3
 ====
